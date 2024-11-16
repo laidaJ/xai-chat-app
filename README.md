@@ -10,5 +10,6 @@ npm install
 ```bash
 npm start
 ```
+now open your browser and type `localhost:3000`, happy playing
 
 welcome anyone to pull and help!

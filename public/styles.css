@@ -1,0 +1,39 @@
+body { 
+        font-family: Arial, sans-serif; 
+        background: #f9f9f9; 
+    } 
+     
+#chat-window { 
+  width: 80%; 
+  margin: 50px auto; 
+  padding: 20px; 
+  border: 1px solid #ddd; 
+  background: white; 
+  box-shadow: 0 0 10px rgba(0,0,0,0.1); 
+} 
+
+#messages { 
+  height: 300px; 
+  overflow-y: scroll; 
+  border: 1px solid #ccc; 
+  padding: 10px; 
+  margin-bottom: 10px; 
+} 
+
+#message-input { 
+  width: 75%; 
+  padding: 10px; 
+} 
+
+#send-button { 
+  width: 20%; 
+  padding: 10px; 
+  background-color: #4CAF50; 
+  color: white; 
+  border: none; 
+  cursor: pointer; 
+} 
+
+#send-button:hover { 
+  background-color: #45a049; 
+} 
